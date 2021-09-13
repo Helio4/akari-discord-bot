@@ -1,4 +1,5 @@
 # Akari~n☆
+A simple Discord bot made with [discord.js](https://discord.js.org), using JavaScript and SQLite.</br>
 I wanted to learn some JavaScript back in 2017, so I started this project on my free time. It was a lot of fun, and I even ended up making some custom-made Discord bots for a few friends later on.
 
 ## Configuration file
