@@ -1,5 +1,5 @@
 # Akari~n☆
-I wanted to learn some JavaScript back in 2017, so I started this project on my free time. It was a lot of fun, and I even ended up making more Discord bots for a few friends later on.
+I wanted to learn some JavaScript back in 2017, so I started this project on my free time. It was a lot of fun, and I even ended up making some custom-made Discord bots for a few friends later on.
 
 ## Configuration file
 If by any reason you wanted to use this bot, this is how the `config.json` file should look like.
